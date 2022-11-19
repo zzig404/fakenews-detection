@@ -1,0 +1,4 @@
+S.NO, NAME, ADDRESS, EMAIL, PHONE No.
+1, Rohan, Lucknow, roh@gmail.com, 1234567890
+2, Ritik, Delhi, ritik@yahoo.com, 2345678901
+3, Prerit, Jaipur, pat@gmail.com, 345678901
